@@ -1,110 +1,154 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:134E4A&height=220&section=header&text=SAMPRITH%20C%20AMIN&fontSize=38&fontColor=E2E8F0&fontAlignY=35&animation=fadeIn&desc=Co-Founder%20%C2%B7%20CTO%20%C2%B7%20Vyanika%20Innovations&descAlignY=55&descSize=18" width="100%" alt="header"/>
+[![Typing SVG Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&lines=%3E_SAMPRITH_C_AMIN;%3E_CO-FOUNDER_%26_SWE_%40_VYANIKA_INNOVATIONS;%3E_DEEP_TECH_%7C_EMBEDDED_SYSTEMS_%2B_AI%2FML;%3E_PATENT_CO-INVENTOR_%5BAPP_202641005974%5D)](https://git.io/typing-svg)
 
-<a href="https://github.com/samprith02">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=Co-Founder+%26+CTO+%40+Vyanika+Innovations;Building+real-time+sensor+systems+for+sport;AI%2FML+%C2%B7+Multi-Agent+Systems+%C2%B7+Embedded;Patent-holder+%E2%80%94+IN+202641005974" alt="Typing SVG"/>
-</a>
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samprith-c-amin)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samprith02@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-vyanikatech.com-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black)](https://vyanikatech.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-samprith02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samprith02)
 
 </div>
 
-<p align="center">
-<i>I build systems that make decisions in real time — from pressure sensors on a Kabaddi mat to agents coordinating inside a workflow graph.</i>
-</p>
+<br />
 
-<br>
+<pre>
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ SYSTEM ARCHITECT & DEEP-TECH TELEMETRY METRICS                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Identity     : Samprith C Amin                                              │
+│ Designation  : Co-Founder & Software Engineer @ Vyanika Innovations         │
+│ Core Domain  : Embedded Firmware, Binary Protocols, Real-Time AI Sensing    │
+│ Education    : B.E. AI & ML, MITE Mangalore (Expected June 2027)             │
+│ Intellectual : Patent Co-Inventor (Indian Patent App #202641005974)          │
+│ Venture      : K-Tech NAIN (₹5 Lakhs Grant) | NSRCEL, IIM Bangalore         │
+└─────────────────────────────────────────────────────────────────────────────┘
+</pre>
 
-```text
-$ status --current
+---
 
-[ACTIVE]   Tech Kabaddi        real-time sensor officiating · ₹5L funded · patent filed
-[ACTIVE]   MAWOS               multi-agent workflow orchestration research
-[RUNNING]  Federated Learning  FedAvg / non-IID simulation on PyTorch · 100 clients
-[SHIPPED]  Chronos             teacher ERP + timetable scheduling · CSP solver
-```
+### // SYSTEM PROFILE & ARCHITECTURE OVERVIEW
 
-<br>
-
-## Currently Building
-
-**Tech Kabaddi** — Real-time sensor officiating platform for Kabaddi
-Funded ₹5L through K-Tech NAIN, backed by the Government of Karnataka. Three independently configurable sensing nodes stream synchronized pressure-matrix data over a custom CRC16-CCITT binary protocol with adaptive rate control — cutting end-to-end latency 8× (120ms → 15ms) and packet size 40× (~8KB → ~200B). A 5,000+ line PyQt5 dashboard renders synchronized multi-matrix data at 60 FPS on a Raspberry Pi 5, backed by a custom SQLite replay engine for frame-accurate review.
-`Embedded C` `CRC16-CCITT` `PyQt5` `Raspberry Pi` `Real-Time Systems`
-→ Patent filed — **IN 202641005974**, Integrated Smart Kabaddi Mat System
-
-**MAWOS** — Multi-Agent Workflow Orchestration System
-A controlled research framework for evaluating how multi-agent systems coordinate, decompose tasks, and behave under reproducible conditions — not anecdotal ones.
-`Multi-Agent Systems` `LLMs` `Workflow Orchestration`
-[View repository →](https://github.com/samprith02/MAWOS)
-
-**Federated Learning Simulation Framework** — PyTorch
-Reimplementing FedAvg across 100 heterogeneous clients on CIFAR-10. Reproduced 99.02% accuracy on an MNIST IID baseline and built non-IID Dirichlet partitioning (α = 0.1–1.0) to study what real-world data heterogeneity does to convergence.
-`PyTorch` `Federated Learning` `Distributed Systems`
-[View repository →](https://github.com/samprith02/ML-Research-Federative-sim)
-
-**Chronos** — Teacher ERP & Timetable Scheduling Engine
-Full-stack scheduling simulation engine solving classroom timetabling with an MRV-backtracking + hill-climbing solver.
-`Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL`
-[View repository →](https://github.com/samprith02/chronos-teacher-erp-timetable)
+Final-year AI/ML Engineering candidate and Deep-Tech Co-Founder architecting real-time embedded hardware, high-throughput data compression protocols, and multi-agent AI framework orchestrations. Currently leading software engineering for **Tech Kabaddi**—a government-funded sports technology officiating platform.
 
 <details>
-<summary><b>Also shipped</b></summary>
-<br>
+<summary><b>[+] DEEP FIRMWARE & PROTOCOL OPTIMIZATION TELEMETRY</b></summary>
 
-- **Vyanika Innovations Website** — Astro, TypeScript, Tailwind, GSAP — CI/CD via GitHub Actions to Hostinger, hardened with least-privilege permissions and SSH host-key verification. [vyanikatech.com →](https://vyanikatech.com)
-- **Full-Stack Blogging Platform** — MERN — Authentication, CRUD operations, MongoDB schema design.
-- **Attendance & Leave Management System** — Flask, MySQL — Automated leave processing and attendance crediting.
+<br />
+
+* **Latency Optimization:** Engineered Embedded C firmware with adaptive rate control and zlib/RLE compression, reducing end-to-end telemetry latency by 8x (`120 ms` -> `15 ms`).
+* **Data Packet Compression:** Designed a custom `CRC16-CCITT` binary protocol, shrinking frame packet sizes by 40x (`~8 KB` -> `~200 B`).
+* **Analog Signal Processing:** Eliminated sensor crosstalk caused by parallel ADC sampling through sequential row acquisition firmware scanning.
+* **Real-Time Rendering:** Authored a 5,000+ line PyQt5 engine on Raspberry Pi 5 executing multi-matrix streaming at `60 FPS`.
 
 </details>
 
-<br>
+---
 
-## Recognition
+### // INTELLECTUAL PROPERTY & PATENTS
 
-| | |
-|---|---|
-| **1st Place, NAIN 2.0 · 2025** | Ranked 1st among 130 semi-finalist teams · ₹5L funding + K-Tech NAIN incubation |
-| **Top 50 Nationwide, NSRCEL** | Pre-incubation program, IIM Bangalore |
-| **Winner, BOLPU Innovation Challenge** | 1 of 11 winning teams from 850+ applicants · only student-led winner |
-| **1st Prize, NAIN Innovation Conclave · 2026** | IIIT Bangalore · 1st in prototype demo among K-Tech startups |
-| **Semi-Finalist, Elevate Nxt · 2026** | Startup Karnataka · Stage 3 in-person pitch, Bengaluru |
-| **Patent Filed — IN 202641005974** | Integrated Smart Kabaddi Mat System (pressure sensing + NFC ID + auto bonus-point detection) |
+**Integrated Smart Kabaddi Mat System**
+* **Patent App No:** `202641005974` (Filed - India)
+* **Architecture:** Hardware-software platform uniting Velostat pressure matrices, high-speed NFC player verification, and algorithmic boundary/bonus-point detection.
 
-<br>
+---
 
-## Stack
+### // TECHNICAL STACK MATRIX
+
+| Subsystem | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | `C` `C++` `Python` `Java` `JavaScript` `TypeScript` |
+| **AI / Machine Learning** | `PyTorch` `Federated Learning (FedAvg)` `Multi-Agent Systems` `Feature Engineering` |
+| **Embedded & Protocols** | `STM32` `ESP32` `Arduino` `Raspberry Pi 5` `CRC16-CCITT` `RLE / zlib Compression` |
+| **GUI & Visualization** | `PyQt5` `pyqtgraph` `Tkinter` `Matplotlib` |
+| **Full Stack & Web** | `Astro` `TypeScript` `Tailwind CSS` `GSAP` `MERN Stack` `Flask` |
+| **Databases & Infra** | `SQLite` `MySQL` `PostgreSQL` `MongoDB` `Linux` `Git` `GitHub Actions` |
+
+---
+
+### // FEATURED ENGINEERING PROJECTS
+
+<pre>
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 01 :: Tech Kabaddi — Real-Time Sensor Officiating System                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Backed by K-Tech NAIN (₹5 Lakhs Grant) & Govt of Karnataka                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+</pre>
+* Architected distributed sensing infrastructure operating across 3 independently configurable nodes with real-time sync.
+* Built unified firmware with automatic node configuration and boot-time dynamic calibration.
+* Developed custom SQLite replay engine supporting timeline scrubbing, variable playback, and frame-by-frame export.
+* Implemented frame-by-frame foot-out line-cross evaluation mapped to court boundaries.
+
+<pre>
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 02 :: MAWOS — Multi-Agent Workflow Orchestration System                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Controlled Multi-Agent Research Framework                                   │
+└─────────────────────────────────────────────────────────────────────────────┘
+</pre>
+* Engineered controlled multi-agent research framework evaluating agentic workflow execution, task decomposition, and coordination under reproducible experimental conditions.
+
+<pre>
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 03 :: Federated Learning Simulation Framework                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Distributed PyTorch Implementation                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+</pre>
+* Simulated Federated Averaging (`FedAvg`) across 100 heterogeneous clients on CIFAR-10 and MNIST datasets.
+* Reproduced `99.02%` accuracy baseline on MNIST IID; evaluated non-IID client heterogeneity using Dirichlet partitioning ($\alpha = 0.1 - 1.0$).
+
+<pre>
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 04 :: Vyanika Innovations Production Platform                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Automated CI/CD Web Platform — vyanikatech.com                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+</pre>
+* Built production website using Astro, TypeScript, Tailwind CSS, and GSAP animations.
+* Implemented GitHub Actions CI/CD pipeline with type-checking, automated SSH/rsync deployments to Hostinger, and hardened least-privilege security.
+
+---
+
+### // HONORS & VENTURE LOG
+
+<pre>
+┌──────┬──────────────────────────────────────────────────────────────────────┐
+│ YEAR │ RECOGNITION / INITIATIVE                                             │
+├──────┼──────────────────────────────────────────────────────────────────────┤
+│ 2026 │ [1st Place] NAIN Innovation Conclave 2026 — IIIT Bangalore          │
+│ 2026 │ [Semi-Finalist] Deeptech Elevate Nxt 2026 — Startup Karnataka         │
+│ 2025 │ [Top 50 Nationwide] NSRCEL Pre-Incubation — IIM Bangalore          │
+│ 2025 │ [Winner] BOLPU Innovation Challenge — Selected 1/11 from 850+ Teams  │
+│ 2025 │ [1st Place] NAIN 2.0 — College Level (Secured ₹5 Lakhs Incubation)   │
+└──────┴──────────────────────────────────────────────────────────────────────┘
+</pre>
+
+---
+
+### // TELEMETRY & ANALYTICS
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,py,cpp,c,js,pytorch,react,nodejs,express,mongodb,flask,mysql,postgres,sqlite,git,github,linux,figma,arduino,raspberrypi&theme=dark" alt="stack"/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samprith02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/samprith02)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samprith02&theme=tokyonight&hide_border=true)](https://github.com/samprith02)
+
 </div>
 
-<p align="center"><sub>Also: STM32 · ESP32 · Binary Communication Protocols · Data Compression (RLE, zlib) · Federated Learning · Multi-Agent Systems</sub></p>
-
-<br>
-
-## By the Numbers
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samprith02&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E2E8F0&icon_color=2DD4BF" width="49%" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samprith02&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E2E8F0&langs_count=8" width="41%" alt="top langs"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=samprith02&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" width="90%" alt="streak"/>
-</div>
-
-<br>
-
-## Connect
+<br />
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-134E4A?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:samprith02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-134E4A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/samprith-c-amin)
-[![Website](https://img.shields.io/badge/Website-134E4A?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF)](https://vyanikatech.com)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samprith02&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/samprith02)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
+---
 
-<p align="center"><sub><i>Open to interesting problems — systems, ML, or otherwise.</i></sub></p>
+<div align="center">
+
+<sub>SYSTEM ARCHITECTURE MAINTAINED BY SAMPRITH C AMIN | VYANIKA INNOVATIONS</sub>
+
+</div>
